@@ -1,0 +1,25 @@
+body {
+font-family:serif; 
+font-size: 100%;
+font-weight:regular;
+    background-color:silver;
+}
+
+.row {
+    margin-left:2%;
+    margin-right:2%;
+    margin-top:2%;
+    margin-bottom:2%;
+    width: auto;
+    height:5%;
+    
+}
+
+.aw {
+    height:100px;
+    background-color:white;
+    width:auto;
+    padding-left:20px;
+    padding-right :20px;
+
+}
